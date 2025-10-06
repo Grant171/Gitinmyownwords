@@ -1,0 +1,8 @@
+Git is an open-source, distributed version control system. It is a command-line tool that tracks changes in source code and other files. While GitHub is a service for Git repositories. It provides a cloud-based platform to store and manage Git projects.
+I'm curious about how the tech works, like the tech that runs git and GitHub. 
+Vocab: A 
+repository is the central storage location for a project, containing all project files, folders, and their complete revision history. 
+Cloning refers to creating a local copy of a remote repository on your computer. A  
+commit represents a snapshot of the project at a specific point in time. When you make changes to your code and save them
+ Pushing involves uploading your local commits from your local repository to the remote repository on GitHub
+Branches are independent lines of development within a repository. They allow you to work on new features or bug fixes without affecting the main codebase. 
